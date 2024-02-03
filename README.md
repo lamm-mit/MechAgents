@@ -26,9 +26,9 @@ This repository contains google colab notebooks that organize collaborative team
 To run the colab notebooks, just click the "open in Colab" badge and include your API key to the language model in the relvent cells.
 
 ### Key packages
-> fenics/dolfin-2019.2
-> pyautogen-0.1.14
-> openai-0.28.1
+> - fenics/dolfin-2019.2
+> - pyautogen-0.1.14
+> - openai-0.28.1
 
 ### Original paper
 
