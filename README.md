@@ -17,6 +17,7 @@ Figure 1: Framework of multi-agent AI modeling for solving mechanics problems
 
 ### Codes
 This repository contains google colab notebooks that organize collaborative teams of LLM powered agents to solve elasticity problems using finite element method. 
+#### List of notebooks:
 > 1. [A two-agent team solves linear elasticity problems](./0_colab_notebook_for_TwoAgentTeam_Elasticity/0_TwoAgen_MultiStep_LElasticity.ipynb)
 > 2. [A two-agent team solves hyperelasticity problems](./0_colab_notebook_for_TwoAgentTeam_Elasticity/1_TwoAgen_OneStep_LE_to_HE.ipynb)
 > 3. [A multi-agent group solves linear elasticity problems](./1_colab_notebook_for_MulAgentGroup_LE/0_MultiGen_MultiStep_LE.ipynb)
