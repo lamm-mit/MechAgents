@@ -56,13 +56,14 @@ To run the colab notebooks, just click the "Open in Colab" badge and include you
 
 Cite this work as:
 ```
-@article{NiBuehler_2024,
+@article{NiBuehler_EML_2024,
     title   = {MechAgents: Large language model multi-agent collaborations can solve mechanics
                problems, generate new data, and integrate knowledge},
     author  = {B. Ni, M.J. Buehler},
     journal = {Extreme Mechanics Letters},
     year    = {2024},
-    volume  = {in press},
+    volume  = {},
+    DOI     = {doi.org/10.1016/j.eml.2024.102131},
     pages   = {},
     url     = {https://arxiv.org/abs/2311.08166}
 }
